@@ -273,4 +273,9 @@ footer {
   #contact .container {
     height: 50vh;
   }
+
+  #hero .hero_image img {
+    height: 280px;
+    margin-bottom: 20px;
+}
 }
